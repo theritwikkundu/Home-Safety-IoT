@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592559911375",
+    "firebase_url": "https://homesafety-app-default-rtdb.firebaseio.com/",
+    "project_id": "homesafety-app",
+    "storage_bucket": "homesafety-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592559911375:android:f215965387618b7abe22ba",
+        "android_client_info": {
+          "package_name": "tech.grassxopper.homesafety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592559911375-j6n1nuau941jja752rdi20ve0fksfca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxshLX6C7b0OseA8l6UrkT_WMEV_WDl8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592559911375-j6n1nuau941jja752rdi20ve0fksfca4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
