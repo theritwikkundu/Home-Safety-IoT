@@ -20,7 +20,7 @@ When logged in, the user can connect to the MQTT channel associated with his use
 
 - The prototype is built using `NodeMCU` and `Microwave radar` sensor. The sketch has been written using Arduino IDE.
 
-- The communication has been established using MQTT protocol over `HiveMQTT` MQTT broker.
+- The communication has been established using MQTT protocol over `HiveMQ` MQTT broker.
 
 ---
 
