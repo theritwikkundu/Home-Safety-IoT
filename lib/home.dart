@@ -91,7 +91,7 @@ class _HomePState extends State<HomeP> {
                     MaterialButton(
                       padding: EdgeInsets.fromLTRB(20.0,15.0,20.0,10.0),
                       color: currentAppState.getAppConnectionState == MQTTAppConnectionState.connected
-                          ? (roomOneFlag == false ? Colors.red[900] : Colors.red[900]) : Colors.grey[700],
+                          ? (roomOneFlag == false ? Colors.red[900] : Colors.green[900]) : Colors.grey[700],
                       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(4)),
                       onPressed: (){
                         print("Current topic: "+currentTopic);
